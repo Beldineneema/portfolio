@@ -1,0 +1,52 @@
+body{
+    background-color: palegreen;
+    background-size:cover;
+}
+h1{
+    background-color: whitesmoke;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+h1 :hover{
+    background-color: teal;
+}
+.column{
+    align-items: center;
+    margin-left: 400px;
+}
+.pic{
+    margin-left: 300px;
+}
+#word{
+    text-align: center;
+    font-size: 22px;
+    font-family: serif;
+    font-style: italic;
+    text-decoration-thickness: 4px;
+    -moz-text-decoration-color: saddlebrown;
+}
+h2{
+    text-align: center;
+    text-decoration: navy;
+    font-family: fantasy;
+    font-size: 25px;
+}
+#home{
+    background-color: palegreen;
+}
+.tec{
+    text-align: center;
+    font-size: 40px;
+}
+.about{
+    text-align: center;
+    grid-template-columns: ;
+}
+.hobby{
+    text-align: center;
+}
+
+.img{
+    margin-left: 400px;
+}
